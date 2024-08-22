@@ -7,7 +7,7 @@ Database credentials for [Neon](https://neon.tech/home) are already configured i
 
 
 ## Requirements
-This project requires NodeJS.
+This project requires NodeJS >= 18.
 
 ## Get started
 Run the following commands, and start developing 🚀 !
